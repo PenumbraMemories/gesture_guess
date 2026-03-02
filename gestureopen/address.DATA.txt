@@ -1,0 +1,5 @@
+maomaoopen.py
+"C:\Users\21957\Desktop\AudioDecrypt-main\src\bin\Debug\net9.0-windows\AudioDecrypt.exe"
+https://www.deepseek.com/
+改名器.py
+截图.py
